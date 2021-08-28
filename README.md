@@ -1,1 +1,1 @@
-# simple-banking-system-hyperskill
+# SimpleBankingSystem
