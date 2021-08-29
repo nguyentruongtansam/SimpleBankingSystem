@@ -1,7 +1,7 @@
 num_list = []
 while True:
-    num = input()
-    if str(num) == '.':
+    num = str(input())
+    if num == '.':
         break
     else:
         num_list.append(float(num))
